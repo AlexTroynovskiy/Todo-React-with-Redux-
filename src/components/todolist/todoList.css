@@ -1,0 +1,9 @@
+.todoList li {
+  list-style: none;
+}
+.btn-add {
+  margin-left: 15px;
+}
+.search {
+  margin-top: 15px;
+}
